@@ -11,3 +11,4 @@ f.close()
 
 os.mkdir("/home/"+usuario)
 
+# No está terminado...
